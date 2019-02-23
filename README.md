@@ -1,1 +1,1 @@
-# openmap how retrieve data from Api from openweathermap
+# openmap how retrieve data from  openweathermap Api 
